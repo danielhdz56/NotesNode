@@ -15,14 +15,14 @@ npm install
 ![npmInstall](/images/npmInstall.png?raw=true "Install")
 
 ## How to Use
-#### Help
+### Help
 Access help by using the `--help` or `-h` flag
 ```shellSession
 node app.js --help
 ```
 ![help](/images/help.png?raw=true "Help")
 
-#### Commands  
+### Commands  
 
 Command | Example
  :---: | :---:
