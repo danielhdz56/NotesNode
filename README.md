@@ -24,9 +24,9 @@ node app.js --help
 
 #### Commands  
 
-Description | Example
- --- | :---:
-List all notes | `node app.js list` ![list](/images/list.png?raw=true "List")
-Add a note with a title and body | `node app.js add -t 'Hello World' -b 'I am alive'` ![add](/images/add.png?raw=true "Add")
-Read a note with a title | `node app.js read -t 'To buy from store'` ![read](/images/read.png?raw=true "Read")
-Remove a note with a title | `node app.js remove -t 'To buy from store'` ![remove](/images/remove.png?raw=true "Remove")
+Example|
+:---:|
+`node app.js list` ![list](/images/list.png?raw=true "List")
+`node app.js add -t 'Hello World' -b 'I am alive'` ![add](/images/add.png?raw=true "Add")
+`node app.js read -t 'To buy from store'` ![read](/images/read.png?raw=true "Read")
+`node app.js remove -t 'To buy from store'` ![remove](/images/remove.png?raw=true "Remove")
