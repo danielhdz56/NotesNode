@@ -1,5 +1,12 @@
 # NotesNode
 
+## Description
+* A notes application that lets you list, add, read, and remove notes through the terminal.
+* NPM Packages used
+ * fs
+ * lodash
+ * yargs
+ 
 ## Setup 
 1. Clone this repo using the command line
 ```shellSession
