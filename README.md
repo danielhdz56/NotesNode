@@ -25,7 +25,7 @@ node app.js --help
 #### Commands  
 
 Command | Example
- --- | :---:
+ :---: | :---:
 list | `node app.js list` ![list](/images/list.png?raw=true "List")
 add | `node app.js add -t 'Hello World' -b 'I am alive'` ![add](/images/add.png?raw=true "Add")
 read | `node app.js read -t 'To buy from store'` ![read](/images/read.png?raw=true "Read")
